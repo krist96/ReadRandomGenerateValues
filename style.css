@@ -1,0 +1,19 @@
+div{
+    display: inline-flex;
+    justify-content: center;
+}
+#divOne{
+    background-color: #38c172;
+    height: 250px;
+    width: 250px;
+}
+#divTwo{
+    background-color: #e0a800;
+    height: 250px;
+    width: 250px;
+}
+#divThree{
+    background-color: #9fcdff;
+    height: 250px;
+    width: 250px;
+}
